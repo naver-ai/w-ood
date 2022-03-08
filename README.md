@@ -1,4 +1,4 @@
-# W-OoD: Weakly Supervised Semantic Segmentation using Out-of-Distribution Data (CVPR'22)
+# Weakly Supervised Semantic Segmentation using Out-of-Distribution Data (CVPR'22)
 
 by **Jungbeom Lee<sup>1</sup>, Seong Joon Oh<sup>2,3</sup>, Sangdoo Yun<sup>2</sup>, Junsuk Choe<sup>4</sup>, Eunji Kim<sup>1</sup>, Sungroh Yoon<sup>1</sup>** 
 
