@@ -8,4 +8,4 @@ by **Jungbeom Lee<sup>1</sup>, Seong Joon Oh<sup>2,3</sup>, Sangdoo Yun<sup>2</s
 ## Codes will be available soon. Stay tuned!
 
 ## Dataset
-- Link for [Collected Hard-OOD data (Google drive 800MB)](https://drive.google.com/file/d/1Zrwqiy-dt9aymtEzCt9qqWROMDj3EUUX)
+- Link to download our [Hard-OOD data (Google drive 800MB)](https://drive.google.com/file/d/1Zrwqiy-dt9aymtEzCt9qqWROMDj3EUUX)
