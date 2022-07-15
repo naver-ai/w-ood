@@ -1,4 +1,4 @@
-# Weakly Supervised Semantic Segmentation using Out-of-Distribution Data (CVPR'22)
+# [Weakly Supervised Semantic Segmentation using Out-of-Distribution Data (CVPR'22)](https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Weakly_Supervised_Semantic_Segmentation_Using_Out-of-Distribution_Data_CVPR_2022_paper.pdf)
 
 by **Jungbeom Lee<sup>1</sup>, Seong Joon Oh<sup>2,3</sup>, Sangdoo Yun<sup>2</sup>, Junsuk Choe<sup>4</sup>, Eunji Kim<sup>1</sup>, Sungroh Yoon<sup>1</sup>** 
 
