@@ -27,6 +27,8 @@ W-OoD achieves state-of-the-art performance on Pascal VOC 2012.
 - Unzip and move it to "Data/"
 - Download OoD images: [Download](https://drive.google.com/file/d/1Zrwqiy-dt9aymtEzCt9qqWROMDj3EUUX)
 - Unzip and move it to "WOoD_dataset/openimages"
+- Download a list of OoD images [here](https://drive.google.com/file/d/1KjK55YL1jGHgA0LVA3djHu6vtFyho8kP/view?usp=share_link) and move it to "WOoD_dataset/openimages"
+
 
 #### Step 2. Prepare pre-trained in-distribution classifier
 
